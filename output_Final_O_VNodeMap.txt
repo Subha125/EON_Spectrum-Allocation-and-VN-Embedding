@@ -1,0 +1,402 @@
+O_VNode_id: 1    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  2      4      5      
+O_VNode_id: 2    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  1      5      
+O_VNode_id: 3    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  4      5      
+O_VNode_id: 4    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  1      3      
+O_VNode_id: 5    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  1      2      3      
+O_VNode_id: 6    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  7      8      
+O_VNode_id: 7    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  6      9      
+O_VNode_id: 8    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  6      10      
+O_VNode_id: 9    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  7      
+O_VNode_id: 10    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  8      
+O_VNode_id: 11    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  15      
+O_VNode_id: 12    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  13      14      15      
+O_VNode_id: 13    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  12      15      
+O_VNode_id: 14    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  12      
+O_VNode_id: 15    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  11      12      13      
+O_VNode_id: 16    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  18      
+O_VNode_id: 17    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  18      
+O_VNode_id: 18    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  16      17      
+O_VNode_id: 19    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  20      22      
+O_VNode_id: 20    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  19      21      22      
+O_VNode_id: 21    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  20      22      
+O_VNode_id: 22    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  19      20      21      
+O_VNode_id: 23    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  24      25      
+O_VNode_id: 24    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  23      
+O_VNode_id: 25    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  23      
+O_VNode_id: 26    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  28      29      30      
+O_VNode_id: 27    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  28      29      
+O_VNode_id: 28    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  26      27      
+O_VNode_id: 29    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  26      27      30      
+O_VNode_id: 30    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  26      29      
+O_VNode_id: 31    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  34      
+O_VNode_id: 32    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  33      
+O_VNode_id: 33    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  34      32      
+O_VNode_id: 34    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  31      33      
+O_VNode_id: 35    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  37      38      
+O_VNode_id: 36    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  37      38      
+O_VNode_id: 37    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  35      36      
+O_VNode_id: 38    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  35      36      
+O_VNode_id: 39    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  40      
+O_VNode_id: 40    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  39      41      
+O_VNode_id: 41    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  40      
+O_VNode_id: 42    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  43      
+O_VNode_id: 43    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  42      44      
+O_VNode_id: 44    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  43      
+O_VNode_id: 45    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  46      47      48      
+O_VNode_id: 46    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  45      
+O_VNode_id: 47    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  45      48      49      
+O_VNode_id: 48    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  45      47      49      
+O_VNode_id: 49    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  47      48      
+O_VNode_id: 50    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  53      
+O_VNode_id: 51    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  53      54      
+O_VNode_id: 52    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  54      
+O_VNode_id: 53    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  50      51      
+O_VNode_id: 54    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  51      52      
+O_VNode_id: 55    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  56      
+O_VNode_id: 56    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  55      57      
+O_VNode_id: 57    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  56      
+O_VNode_id: 58    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  59      60      62      
+O_VNode_id: 59    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  58      60      61      
+O_VNode_id: 60    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  58      59      62      
+O_VNode_id: 61    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  59      
+O_VNode_id: 62    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  58      60      
+O_VNode_id: 63    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  64      65      
+O_VNode_id: 64    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  63      
+O_VNode_id: 65    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  63      
+O_VNode_id: 66    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  67      68      69      70      
+O_VNode_id: 67    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  66      
+O_VNode_id: 68    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  66      69      
+O_VNode_id: 69    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  66      68      70      
+O_VNode_id: 70    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  66      69      
+O_VNode_id: 71    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  74      
+O_VNode_id: 72    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  73      74      
+O_VNode_id: 73    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  72      
+O_VNode_id: 74    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  71      72      
+O_VNode_id: 75    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  77      76      
+O_VNode_id: 76    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  75      
+O_VNode_id: 77    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  75      78      
+O_VNode_id: 78    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  77      
+O_VNode_id: 79    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  80      81      83      
+O_VNode_id: 80    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  79      81      83      
+O_VNode_id: 81    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  79      80      82      
+O_VNode_id: 82    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  81      83      
+O_VNode_id: 83    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  79      80      82      
+O_VNode_id: 84    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  86      85      
+O_VNode_id: 85    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  84      
+O_VNode_id: 86    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  84      
+O_VNode_id: 87    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  88      89      
+O_VNode_id: 88    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  87      
+O_VNode_id: 89    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  87      
+O_VNode_id: 90    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  93      92      
+O_VNode_id: 91    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  93      
+O_VNode_id: 92    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  90      
+O_VNode_id: 93    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  90      91      
+O_VNode_id: 94    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  96      97      
+O_VNode_id: 95    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  96      97      
+O_VNode_id: 96    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  94      95      97      
+O_VNode_id: 97    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  94      95      96      
+O_VNode_id: 98    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  100      
+O_VNode_id: 99    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  100      101      
+O_VNode_id: 100    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  99      98      
+O_VNode_id: 101    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  99      
+O_VNode_id: 102    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  103      
+O_VNode_id: 103    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  102      104      105      106      
+O_VNode_id: 104    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  103      
+O_VNode_id: 105    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  103      
+O_VNode_id: 106    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  103      
+O_VNode_id: 107    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  109      
+O_VNode_id: 108    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  109      110      
+O_VNode_id: 109    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  108      110      107      
+O_VNode_id: 110    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  108      109      
+O_VNode_id: 111    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  112      113      114      115      
+O_VNode_id: 112    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  111      
+O_VNode_id: 113    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  111      114      
+O_VNode_id: 114    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  111      113      115      
+O_VNode_id: 115    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  111      114      
+O_VNode_id: 116    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  117      
+O_VNode_id: 117    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  116      118      
+O_VNode_id: 118    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  117      
+O_VNode_id: 119    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  121      120      
+O_VNode_id: 120    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  122      119      
+O_VNode_id: 121    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  119      
+O_VNode_id: 122    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  120      
+O_VNode_id: 123    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  124      125      
+O_VNode_id: 124    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  123      
+O_VNode_id: 125    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  123      
+O_VNode_id: 126    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  127      128      129      130      
+O_VNode_id: 127    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  126      128      129      130      
+O_VNode_id: 128    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  126      127      
+O_VNode_id: 129    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  126      127      130      
+O_VNode_id: 130    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  126      127      129      
+O_VNode_id: 131    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  132      
+O_VNode_id: 132    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  131      133      134      
+O_VNode_id: 133    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  132      134      
+O_VNode_id: 134    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  132      133      
+O_VNode_id: 135    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  136      
+O_VNode_id: 136    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  137      135      
+O_VNode_id: 137    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  136      
+O_VNode_id: 138    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  139      140      
+O_VNode_id: 139    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  138      140      
+O_VNode_id: 140    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  138      139      
+O_VNode_id: 141    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  142      143      144      145      
+O_VNode_id: 142    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  141      143      145      
+O_VNode_id: 143    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  141      142      144      
+O_VNode_id: 144    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  141      143      145      
+O_VNode_id: 145    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  141      142      144      
+O_VNode_id: 146    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  149      
+O_VNode_id: 147    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  148      149      
+O_VNode_id: 148    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  147      
+O_VNode_id: 149    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  146      147      
+O_VNode_id: 150    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  153      154      
+O_VNode_id: 151    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  152      154      
+O_VNode_id: 152    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  151      
+O_VNode_id: 153    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  150      154      
+O_VNode_id: 154    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  150      153      151      
+O_VNode_id: 155    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  157      
+O_VNode_id: 156    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  157      158      
+O_VNode_id: 157    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  155      156      158      
+O_VNode_id: 158    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  156      157      
+O_VNode_id: 159    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  161      160      
+O_VNode_id: 160    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  159      
+O_VNode_id: 161    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  159      
+O_VNode_id: 162    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  163      164      
+O_VNode_id: 163    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  162      164      
+O_VNode_id: 164    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  162      163      
+O_VNode_id: 165    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  167      
+O_VNode_id: 166    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  167      
+O_VNode_id: 167    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  165      166      
+O_VNode_id: 168    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  170      
+O_VNode_id: 169    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  171      
+O_VNode_id: 170    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  168      171      
+O_VNode_id: 171    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  169      170      
+O_VNode_id: 172    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  174      
+O_VNode_id: 173    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  175      
+O_VNode_id: 174    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  175      172      
+O_VNode_id: 175    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  173      174      
+O_VNode_id: 176    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  177      178      179      
+O_VNode_id: 177    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  176      
+O_VNode_id: 178    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  176      179      
+O_VNode_id: 179    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  176      178      
+O_VNode_id: 180    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  181      182      
+O_VNode_id: 181    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  180      
+O_VNode_id: 182    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  180      
+O_VNode_id: 183    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  186      187      185      
+O_VNode_id: 184    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  186      187      
+O_VNode_id: 185    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  183      
+O_VNode_id: 186    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  183      184      
+O_VNode_id: 187    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  183      184      
+O_VNode_id: 188    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  189      190      
+O_VNode_id: 189    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  188      
+O_VNode_id: 190    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  188      191      
+O_VNode_id: 191    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  190      
+O_VNode_id: 192    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  193      194      195      196      
+O_VNode_id: 193    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  192      194      
+O_VNode_id: 194    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  192      193      195      196      
+O_VNode_id: 195    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  192      194      
+O_VNode_id: 196    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  192      194      
+O_VNode_id: 197    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  199      198      
+O_VNode_id: 198    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  197      
+O_VNode_id: 199    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  197      200      
+O_VNode_id: 200    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  199      
+O_VNode_id: 201    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  202      203      
+O_VNode_id: 202    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  201      203      
+O_VNode_id: 203    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  201      202      
+O_VNode_id: 204    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  205      
+O_VNode_id: 205    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  204      206      
+O_VNode_id: 206    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  205      
+O_VNode_id: 207    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  210      
+O_VNode_id: 208    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  209      
+O_VNode_id: 209    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  210      208      
+O_VNode_id: 210    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  207      209      
+O_VNode_id: 211    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  212      
+O_VNode_id: 212    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  211      213      
+O_VNode_id: 213    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  212      214      215      
+O_VNode_id: 214    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  213      215      
+O_VNode_id: 215    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  213      214      
+O_VNode_id: 216    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  217      
+O_VNode_id: 217    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  216      218      
+O_VNode_id: 218    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  217      
+O_VNode_id: 219    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  220      223      
+O_VNode_id: 220    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  219      221      
+O_VNode_id: 221    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  220      222      
+O_VNode_id: 222    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  221      
+O_VNode_id: 223    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  219      
+O_VNode_id: 224    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  225      228      
+O_VNode_id: 225    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  224      226      
+O_VNode_id: 226    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  225      
+O_VNode_id: 227    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  228      
+O_VNode_id: 228    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  227      224      
+O_VNode_id: 229    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  231      232      233      
+O_VNode_id: 230    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  231      232      
+O_VNode_id: 231    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  229      230      
+O_VNode_id: 232    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  229      230      233      
+O_VNode_id: 233    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  229      232      
+O_VNode_id: 234    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  237      
+O_VNode_id: 235    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  236      237      
+O_VNode_id: 236    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  235      237      
+O_VNode_id: 237    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  234      235      236      238      
+O_VNode_id: 238    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  237      
+O_VNode_id: 239    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  240      241      
+O_VNode_id: 240    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  239      
+O_VNode_id: 241    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  239      242      
+O_VNode_id: 242    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  241      
+O_VNode_id: 243    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  245      246      
+O_VNode_id: 244    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  245      246      247      
+O_VNode_id: 245    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  243      244      246      247      
+O_VNode_id: 246    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  243      244      245      247      
+O_VNode_id: 247    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  244      245      246      
+O_VNode_id: 248    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  249      250      251      
+O_VNode_id: 249    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  248      251      
+O_VNode_id: 250    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  248      251      
+O_VNode_id: 251    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  248      249      250      
+O_VNode_id: 252    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  254      255      
+O_VNode_id: 253    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  254      
+O_VNode_id: 254    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  252      253      
+O_VNode_id: 255    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  252      
+O_VNode_id: 256    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  257      259      258      
+O_VNode_id: 257    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  256      259      
+O_VNode_id: 258    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  256      
+O_VNode_id: 259    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  256      257      
+O_VNode_id: 260    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  262      
+O_VNode_id: 261    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  262      
+O_VNode_id: 262    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  260      261      
+O_VNode_id: 263    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  264      
+O_VNode_id: 264    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  263      265      
+O_VNode_id: 265    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  264      266      
+O_VNode_id: 266    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  265      
+O_VNode_id: 267    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  268      269      
+O_VNode_id: 268    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  267      270      
+O_VNode_id: 269    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  267      
+O_VNode_id: 270    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  268      
+O_VNode_id: 271    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  273      272      
+O_VNode_id: 272    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  274      271      
+O_VNode_id: 273    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  271      
+O_VNode_id: 274    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  272      
+O_VNode_id: 275    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  276      277      278      
+O_VNode_id: 276    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  275      277      278      279      
+O_VNode_id: 277    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  275      276      278      
+O_VNode_id: 278    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  275      276      277      279      
+O_VNode_id: 279    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  276      278      
+O_VNode_id: 280    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  282      283      
+O_VNode_id: 281    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  283      
+O_VNode_id: 282    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  280      283      
+O_VNode_id: 283    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  280      281      282      
+O_VNode_id: 284    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  285      286      
+O_VNode_id: 285    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  284      
+O_VNode_id: 286    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  287      284      
+O_VNode_id: 287    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  286      
+O_VNode_id: 288    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  291      289      
+O_VNode_id: 289    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  290      288      
+O_VNode_id: 290    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  289      
+O_VNode_id: 291    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  288      
+O_VNode_id: 292    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  294      295      
+O_VNode_id: 293    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  294      296      
+O_VNode_id: 294    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  292      293      295      
+O_VNode_id: 295    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  292      294      296      
+O_VNode_id: 296    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  293      295      
+O_VNode_id: 297    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  299      298      
+O_VNode_id: 298    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  297      
+O_VNode_id: 299    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  297      
+O_VNode_id: 300    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  301      303      
+O_VNode_id: 301    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  300      302      
+O_VNode_id: 302    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  301      
+O_VNode_id: 303    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  300      
+O_VNode_id: 304    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  306      
+O_VNode_id: 305    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  306      
+O_VNode_id: 306    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  304      305      
+O_VNode_id: 307    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  308      
+O_VNode_id: 308    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  307      309      
+O_VNode_id: 309    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  308      310      
+O_VNode_id: 310    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  309      
+O_VNode_id: 311    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  313      
+O_VNode_id: 312    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  313      
+O_VNode_id: 313    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  311      312      
+O_VNode_id: 314    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  315      
+O_VNode_id: 315    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  314      316      
+O_VNode_id: 316    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  315      
+O_VNode_id: 317    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  318      319      
+O_VNode_id: 318    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  317      319      
+O_VNode_id: 319    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  317      318      320      
+O_VNode_id: 320    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  319      
+O_VNode_id: 321    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  322      323      
+O_VNode_id: 322    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  321      
+O_VNode_id: 323    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  321      
+O_VNode_id: 324    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  326      327      325      
+O_VNode_id: 325    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  328      324      
+O_VNode_id: 326    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  324      
+O_VNode_id: 327    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  324      
+O_VNode_id: 328    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  325      
+O_VNode_id: 329    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  330      332      333      
+O_VNode_id: 330    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  329      331      332      
+O_VNode_id: 331    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  330      332      
+O_VNode_id: 332    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  329      330      331      333      
+O_VNode_id: 333    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  329      332      
+O_VNode_id: 334    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  335      336      337      
+O_VNode_id: 335    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  334      336      337      
+O_VNode_id: 336    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  334      335      
+O_VNode_id: 337    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  334      335      
+O_VNode_id: 338    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  340      
+O_VNode_id: 339    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  341      342      
+O_VNode_id: 340    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  338      342      
+O_VNode_id: 341    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  339      
+O_VNode_id: 342    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  340      339      
+O_VNode_id: 343    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  344      345      346      
+O_VNode_id: 344    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  343      
+O_VNode_id: 345    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  343      346      
+O_VNode_id: 346    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  343      345      
+O_VNode_id: 347    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  348      349      
+O_VNode_id: 348    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  347      349      350      
+O_VNode_id: 349    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  347      348      
+O_VNode_id: 350    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  348      
+O_VNode_id: 351    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  354      352      
+O_VNode_id: 352    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  351      
+O_VNode_id: 353    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  354      355      
+O_VNode_id: 354    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  351      353      
+O_VNode_id: 355    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  353      
+O_VNode_id: 356    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  357      358      359      360      
+O_VNode_id: 357    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  356      358      360      
+O_VNode_id: 358    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  356      357      360      
+O_VNode_id: 359    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  356      360      
+O_VNode_id: 360    vNodeDgree:  4      visitedMark: 0   adjO_VNodelist:  356      357      358      359      
+O_VNode_id: 361    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  362      363      
+O_VNode_id: 362    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  361      
+O_VNode_id: 363    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  361      
+O_VNode_id: 364    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  368      
+O_VNode_id: 365    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  367      
+O_VNode_id: 366    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  367      368      
+O_VNode_id: 367    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  365      366      368      
+O_VNode_id: 368    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  364      366      367      
+O_VNode_id: 369    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  370      371      
+O_VNode_id: 370    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  369      371      
+O_VNode_id: 371    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  369      370      
+O_VNode_id: 372    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  374      375      
+O_VNode_id: 373    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  374      375      
+O_VNode_id: 374    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  372      373      375      
+O_VNode_id: 375    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  372      373      374      
+O_VNode_id: 376    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  378      377      
+O_VNode_id: 377    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  376      
+O_VNode_id: 378    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  376      
+O_VNode_id: 379    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  380      381      383      
+O_VNode_id: 380    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  379      383      
+O_VNode_id: 381    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  379      382      
+O_VNode_id: 382    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  381      
+O_VNode_id: 383    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  379      380      
+O_VNode_id: 384    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  386      385      
+O_VNode_id: 385    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  384      
+O_VNode_id: 386    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  384      
+O_VNode_id: 387    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  388      
+O_VNode_id: 388    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  387      389      
+O_VNode_id: 389    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  388      
+O_VNode_id: 390    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  392      
+O_VNode_id: 391    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  392      393      
+O_VNode_id: 392    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  391      393      390      
+O_VNode_id: 393    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  391      392      
+O_VNode_id: 394    vNodeDgree:  3      visitedMark: 0   adjO_VNodelist:  395      397      396      
+O_VNode_id: 395    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  394      397      
+O_VNode_id: 396    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  398      394      
+O_VNode_id: 397    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  394      395      
+O_VNode_id: 398    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  396      
+O_VNode_id: 399    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  400      
+O_VNode_id: 400    vNodeDgree:  2      visitedMark: 0   adjO_VNodelist:  401      399      
+O_VNode_id: 401    vNodeDgree:  1      visitedMark: 0   adjO_VNodelist:  400      
+***************************************************************************

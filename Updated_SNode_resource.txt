@@ -1,0 +1,48 @@
+
+sNode ID 1        sNode remaining resource is:  0
+
+sNode ID 2        sNode remaining resource is:  0
+
+sNode ID 3        sNode remaining resource is:  27
+
+sNode ID 4        sNode remaining resource is:  97
+
+sNode ID 5        sNode remaining resource is:  100
+
+sNode ID 6        sNode remaining resource is:  1
+
+sNode ID 7        sNode remaining resource is:  94
+
+sNode ID 8        sNode remaining resource is:  266
+
+sNode ID 9        sNode remaining resource is:  255
+
+sNode ID 10        sNode remaining resource is:  300
+
+sNode ID 11        sNode remaining resource is:  284
+
+sNode ID 12        sNode remaining resource is:  290
+
+sNode ID 13        sNode remaining resource is:  282
+
+sNode ID 14        sNode remaining resource is:  300
+
+sNode ID 15        sNode remaining resource is:  295
+
+sNode ID 16        sNode remaining resource is:  108
+
+sNode ID 17        sNode remaining resource is:  14
+
+sNode ID 18        sNode remaining resource is:  16
+
+sNode ID 19        sNode remaining resource is:  300
+
+sNode ID 20        sNode remaining resource is:  296
+
+sNode ID 21        sNode remaining resource is:  110
+
+sNode ID 22        sNode remaining resource is:  12
+
+sNode ID 23        sNode remaining resource is:  1
+
+sNode ID 24        sNode remaining resource is:  0

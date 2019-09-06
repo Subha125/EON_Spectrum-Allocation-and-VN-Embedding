@@ -1,0 +1,86 @@
+
+sEdge ID 1        sEdge remaining resource is:  320
+
+sEdge ID 2        sEdge remaining resource is:  320
+
+sEdge ID 3        sEdge remaining resource is:  320
+
+sEdge ID 4        sEdge remaining resource is:  320
+
+sEdge ID 5        sEdge remaining resource is:  320
+
+sEdge ID 6        sEdge remaining resource is:  320
+
+sEdge ID 7        sEdge remaining resource is:  320
+
+sEdge ID 8        sEdge remaining resource is:  320
+
+sEdge ID 9        sEdge remaining resource is:  320
+
+sEdge ID 10        sEdge remaining resource is:  320
+
+sEdge ID 11        sEdge remaining resource is:  320
+
+sEdge ID 12        sEdge remaining resource is:  320
+
+sEdge ID 13        sEdge remaining resource is:  320
+
+sEdge ID 14        sEdge remaining resource is:  320
+
+sEdge ID 15        sEdge remaining resource is:  320
+
+sEdge ID 16        sEdge remaining resource is:  320
+
+sEdge ID 17        sEdge remaining resource is:  320
+
+sEdge ID 18        sEdge remaining resource is:  320
+
+sEdge ID 19        sEdge remaining resource is:  320
+
+sEdge ID 20        sEdge remaining resource is:  320
+
+sEdge ID 21        sEdge remaining resource is:  320
+
+sEdge ID 22        sEdge remaining resource is:  320
+
+sEdge ID 23        sEdge remaining resource is:  320
+
+sEdge ID 24        sEdge remaining resource is:  320
+
+sEdge ID 25        sEdge remaining resource is:  320
+
+sEdge ID 26        sEdge remaining resource is:  320
+
+sEdge ID 27        sEdge remaining resource is:  320
+
+sEdge ID 28        sEdge remaining resource is:  320
+
+sEdge ID 29        sEdge remaining resource is:  320
+
+sEdge ID 30        sEdge remaining resource is:  320
+
+sEdge ID 31        sEdge remaining resource is:  320
+
+sEdge ID 32        sEdge remaining resource is:  320
+
+sEdge ID 33        sEdge remaining resource is:  320
+
+sEdge ID 34        sEdge remaining resource is:  320
+
+sEdge ID 35        sEdge remaining resource is:  320
+
+sEdge ID 36        sEdge remaining resource is:  320
+
+sEdge ID 37        sEdge remaining resource is:  320
+
+sEdge ID 38        sEdge remaining resource is:  320
+
+sEdge ID 39        sEdge remaining resource is:  320
+
+sEdge ID 40        sEdge remaining resource is:  320
+
+sEdge ID 41        sEdge remaining resource is:  320
+
+sEdge ID 42        sEdge remaining resource is:  320
+
+sEdge ID 43        sEdge remaining resource is:  320

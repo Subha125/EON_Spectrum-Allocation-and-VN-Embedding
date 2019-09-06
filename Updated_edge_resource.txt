@@ -1,0 +1,86 @@
+
+sEdge ID 1        sEdge remaining resource is:  255
+
+sEdge ID 2        sEdge remaining resource is:  250
+
+sEdge ID 3        sEdge remaining resource is:  207
+
+sEdge ID 4        sEdge remaining resource is:  320
+
+sEdge ID 5        sEdge remaining resource is:  310
+
+sEdge ID 6        sEdge remaining resource is:  242
+
+sEdge ID 7        sEdge remaining resource is:  275
+
+sEdge ID 8        sEdge remaining resource is:  245
+
+sEdge ID 9        sEdge remaining resource is:  214
+
+sEdge ID 10        sEdge remaining resource is:  5
+
+sEdge ID 11        sEdge remaining resource is:  204
+
+sEdge ID 12        sEdge remaining resource is:  33
+
+sEdge ID 13        sEdge remaining resource is:  14
+
+sEdge ID 14        sEdge remaining resource is:  8
+
+sEdge ID 15        sEdge remaining resource is:  30
+
+sEdge ID 16        sEdge remaining resource is:  3
+
+sEdge ID 17        sEdge remaining resource is:  9
+
+sEdge ID 18        sEdge remaining resource is:  28
+
+sEdge ID 19        sEdge remaining resource is:  18
+
+sEdge ID 20        sEdge remaining resource is:  6
+
+sEdge ID 21        sEdge remaining resource is:  0
+
+sEdge ID 22        sEdge remaining resource is:  19
+
+sEdge ID 23        sEdge remaining resource is:  7
+
+sEdge ID 24        sEdge remaining resource is:  0
+
+sEdge ID 25        sEdge remaining resource is:  17
+
+sEdge ID 26        sEdge remaining resource is:  18
+
+sEdge ID 27        sEdge remaining resource is:  21
+
+sEdge ID 28        sEdge remaining resource is:  32
+
+sEdge ID 29        sEdge remaining resource is:  21
+
+sEdge ID 30        sEdge remaining resource is:  13
+
+sEdge ID 31        sEdge remaining resource is:  6
+
+sEdge ID 32        sEdge remaining resource is:  161
+
+sEdge ID 33        sEdge remaining resource is:  228
+
+sEdge ID 34        sEdge remaining resource is:  248
+
+sEdge ID 35        sEdge remaining resource is:  237
+
+sEdge ID 36        sEdge remaining resource is:  317
+
+sEdge ID 37        sEdge remaining resource is:  320
+
+sEdge ID 38        sEdge remaining resource is:  254
+
+sEdge ID 39        sEdge remaining resource is:  0
+
+sEdge ID 40        sEdge remaining resource is:  6
+
+sEdge ID 41        sEdge remaining resource is:  229
+
+sEdge ID 42        sEdge remaining resource is:  276
+
+sEdge ID 43        sEdge remaining resource is:  242

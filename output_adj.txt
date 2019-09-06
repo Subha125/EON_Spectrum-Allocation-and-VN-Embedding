@@ -1,0 +1,231 @@
+num_of_node is 24  num_of_edge is 43
+node 1
+next vertax: 6	adj edge id: 2   adj cost: 1000    Availability of this Link :0.999
+next vertax: 2	adj edge id: 1   adj cost: 800    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 2
+
+node 2
+next vertax: 6	adj edge id: 4   adj cost: 950    Availability of this Link :0.9999
+next vertax: 3	adj edge id: 3   adj cost: 1100    Availability of this Link :0.9995
+next vertax: 1	adj edge id: 1   adj cost: 800    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 3
+next vertax: 7	adj edge id: 7   adj cost: 1000    Availability of this Link :0.995
+next vertax: 5	adj edge id: 6   adj cost: 800    Availability of this Link :0.999
+next vertax: 4	adj edge id: 5   adj cost: 250    Availability of this Link :0.9995
+next vertax: 2	adj edge id: 3   adj cost: 1100    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 4
+
+node 4
+next vertax: 7	adj edge id: 9   adj cost: 850    Availability of this Link :0.9999
+next vertax: 5	adj edge id: 8   adj cost: 800    Availability of this Link :0.999
+next vertax: 3	adj edge id: 5   adj cost: 250    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 5
+next vertax: 8	adj edge id: 10   adj cost: 1200    Availability of this Link :0.9999
+next vertax: 4	adj edge id: 8   adj cost: 800    Availability of this Link :0.999
+next vertax: 3	adj edge id: 6   adj cost: 800    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 6
+next vertax: 11	adj edge id: 13   adj cost: 1900    Availability of this Link :0.995
+next vertax: 9	adj edge id: 12   adj cost: 1200    Availability of this Link :0.9995
+next vertax: 7	adj edge id: 11   adj cost: 1000    Availability of this Link :0.999
+next vertax: 2	adj edge id: 4   adj cost: 950    Availability of this Link :0.9999
+next vertax: 1	adj edge id: 2   adj cost: 1000    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 7
+next vertax: 9	adj edge id: 15   adj cost: 1000    Availability of this Link :0.9995
+next vertax: 8	adj edge id: 14   adj cost: 1150    Availability of this Link :0.999
+next vertax: 6	adj edge id: 11   adj cost: 1000    Availability of this Link :0.999
+next vertax: 4	adj edge id: 9   adj cost: 850    Availability of this Link :0.9999
+next vertax: 3	adj edge id: 7   adj cost: 1000    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 8
+next vertax: 10	adj edge id: 16   adj cost: 900    Availability of this Link :0.9999
+next vertax: 7	adj edge id: 14   adj cost: 1150    Availability of this Link :0.999
+next vertax: 5	adj edge id: 10   adj cost: 1200    Availability of this Link :0.9999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 9
+next vertax: 12	adj edge id: 19   adj cost: 1000    Availability of this Link :0.9999
+next vertax: 11	adj edge id: 18   adj cost: 1400    Availability of this Link :0.9995
+next vertax: 10	adj edge id: 17   adj cost: 1000    Availability of this Link :0.995
+next vertax: 7	adj edge id: 15   adj cost: 1000    Availability of this Link :0.9995
+next vertax: 6	adj edge id: 12   adj cost: 1200    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 10
+next vertax: 14	adj edge id: 21   adj cost: 850    Availability of this Link :0.999
+next vertax: 13	adj edge id: 20   adj cost: 950    Availability of this Link :0.9995
+next vertax: 9	adj edge id: 17   adj cost: 1000    Availability of this Link :0.995
+next vertax: 8	adj edge id: 16   adj cost: 900    Availability of this Link :0.9999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 4
+
+node 11
+next vertax: 19	adj edge id: 24   adj cost: 2600    Availability of this Link :0.999
+next vertax: 15	adj edge id: 23   adj cost: 1300    Availability of this Link :0.995
+next vertax: 12	adj edge id: 22   adj cost: 900    Availability of this Link :0.9999
+next vertax: 9	adj edge id: 18   adj cost: 1400    Availability of this Link :0.9995
+next vertax: 6	adj edge id: 13   adj cost: 1900    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 12
+next vertax: 16	adj edge id: 26   adj cost: 1000    Availability of this Link :0.995
+next vertax: 13	adj edge id: 25   adj cost: 900    Availability of this Link :0.9999
+next vertax: 11	adj edge id: 22   adj cost: 900    Availability of this Link :0.9999
+next vertax: 9	adj edge id: 19   adj cost: 1000    Availability of this Link :0.9999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 4
+
+node 13
+next vertax: 17	adj edge id: 28   adj cost: 1100    Availability of this Link :0.999
+next vertax: 14	adj edge id: 27   adj cost: 650    Availability of this Link :0.999
+next vertax: 12	adj edge id: 25   adj cost: 900    Availability of this Link :0.9999
+next vertax: 10	adj edge id: 20   adj cost: 950    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 4
+
+node 14
+next vertax: 18	adj edge id: 29   adj cost: 1200    Availability of this Link :0.9999
+next vertax: 13	adj edge id: 27   adj cost: 650    Availability of this Link :0.999
+next vertax: 10	adj edge id: 21   adj cost: 850    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 15
+next vertax: 20	adj edge id: 31   adj cost: 1300    Availability of this Link :0.999
+next vertax: 16	adj edge id: 30   adj cost: 600    Availability of this Link :0.995
+next vertax: 11	adj edge id: 23   adj cost: 1300    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 16
+next vertax: 22	adj edge id: 34   adj cost: 800    Availability of this Link :0.9995
+next vertax: 21	adj edge id: 33   adj cost: 1000    Availability of this Link :0.9999
+next vertax: 17	adj edge id: 32   adj cost: 1000    Availability of this Link :0.995
+next vertax: 15	adj edge id: 30   adj cost: 600    Availability of this Link :0.995
+next vertax: 12	adj edge id: 26   adj cost: 1000    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 17
+next vertax: 23	adj edge id: 37   adj cost: 1000    Availability of this Link :0.9995
+next vertax: 22	adj edge id: 36   adj cost: 850    Availability of this Link :0.9999
+next vertax: 18	adj edge id: 35   adj cost: 800    Availability of this Link :0.9995
+next vertax: 16	adj edge id: 32   adj cost: 1000    Availability of this Link :0.995
+next vertax: 13	adj edge id: 28   adj cost: 1100    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 5
+
+node 18
+next vertax: 24	adj edge id: 38   adj cost: 900    Availability of this Link :0.995
+next vertax: 17	adj edge id: 35   adj cost: 800    Availability of this Link :0.9995
+next vertax: 14	adj edge id: 29   adj cost: 1200    Availability of this Link :0.9999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 19
+next vertax: 20	adj edge id: 39   adj cost: 1200    Availability of this Link :0.9995
+next vertax: 11	adj edge id: 24   adj cost: 2600    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 2
+
+node 20
+next vertax: 21	adj edge id: 40   adj cost: 700    Availability of this Link :0.999
+next vertax: 19	adj edge id: 39   adj cost: 1200    Availability of this Link :0.9995
+next vertax: 15	adj edge id: 31   adj cost: 1300    Availability of this Link :0.999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 21
+next vertax: 22	adj edge id: 41   adj cost: 300    Availability of this Link :0.9999
+next vertax: 20	adj edge id: 40   adj cost: 700    Availability of this Link :0.999
+next vertax: 16	adj edge id: 33   adj cost: 1000    Availability of this Link :0.9999
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 22
+next vertax: 23	adj edge id: 42   adj cost: 600    Availability of this Link :0.995
+next vertax: 21	adj edge id: 41   adj cost: 300    Availability of this Link :0.9999
+next vertax: 17	adj edge id: 36   adj cost: 850    Availability of this Link :0.9999
+next vertax: 16	adj edge id: 34   adj cost: 800    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 4
+
+node 23
+next vertax: 24	adj edge id: 43   adj cost: 900    Availability of this Link :0.9995
+next vertax: 22	adj edge id: 42   adj cost: 600    Availability of this Link :0.995
+next vertax: 17	adj edge id: 37   adj cost: 1000    Availability of this Link :0.9995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 3
+
+node 24
+next vertax: 23	adj edge id: 43   adj cost: 900    Availability of this Link :0.9995
+next vertax: 18	adj edge id: 38   adj cost: 900    Availability of this Link :0.995
+
+Computing Capacity of this node : 300
+
+Nodal Degree of this node : 2
+
